@@ -744,8 +744,83 @@
     <item name="STAG_Clothing_Cargo_Pants" chance="0.03" />
     <item name="STAG_Clothing_Pouches" chance="0.03" />    
 	<item name="STAG_RepairKit" chance="0.01" />    	
+
   </cargo>  
   <cargo chance="1.0" name="STAG_QuestItem">
     <item name="ScientificBriefcaseKeys" chance="0.02" />      
   </cargo>    
+  <cargo chance="0.5" name="STAG_Temple">
+    <item name="ScientificBriefcaseKeys" chance="0.01" />     
+    <item name="Mag_CMAG_40Rnd" chance="0.05" />
+    <item name="Mag_FAL_20Rnd" chance="0.05" />
+    <item name="Mag_M14_20Rnd" chance="0.05" />
+    <item name="Mag_STANAG_30Rnd" chance="0.05" />
+    <item name="Mag_SVD_10Rnd" chance="0.05" />
+    <item name="Mag_VAL_20Rnd" chance="0.05" />
+    <item name="Mag_VSS_10Rnd" chance="0.05" />
+    <item name="Mag_AK74_45Rnd" chance="0.05" />
+    <item name="Mag_AK101_30Rnd" chance="0.05" />
+    <item name="Mag_AKM_30Rnd" chance="0.05" />
+    <item name="Mag_AUG_30Rnd" chance="0.05" />
+    <item name="Mag_AKM_30Rnd" chance="0.05" />
+	<item name="STAG_Battery9V" chance="0.05" />	
+	<item name="STAG_AmmoBox_SnowOwl" chance="0.01" />
+	<item name="STAG_Canteen" chance="0.03" />
+	<item name="STAG_CreamCheese" chance="0.03" />
+	<item name="STAG_FirstAidKit" chance="0.03" />
+	<item name="STAG_Heatpack" chance="0.03" />
+	<item name="STAG_Matchbox" chance="0.03" />
+	<item name="STAG_PetrolLighter" chance="0.03" />
+	<item name="STAG_NitroCan" chance="0.03" />
+	<item name="STAG_PeanutButter" chance="0.03" />
+	<item name="STAG_PotatoChips" chance="0.03" />
+	<item name="STAG_Protein_cookie" chance="0.03" />
+	<item name="STAG_SodaCan" chance="0.03" />
+	<item name="STAG_TacticalBaconCan" chance="0.03" />
+	<item name="STAG_Waffle" chance="0.03" />
+    <item name="STAG_CombatKnife" chance="0.03" />
+	<item name="STAG_LargeGasCanister" chance="0.03" />
+    <item name="STAG_BalaclavaMask" chance="0.03" />    	
+    <item name="STAG_Clothing_Armband" chance="0.03" />
+    <item name="STAG_Clothing_Boots" chance="0.03" />
+    <item name="STAG_Flag_Mirrored" chance="0.03" />
+    <item name="STAG_Clothing_TacticalGloves" chance="0.03" />
+    <item name="STAG_Clothing_PlateCarrierHolster" chance="0.03" />
+    <item name="STAG_Clothing_M65_Jacket" chance="0.03" />
+    <item name="STAG_Clothing_Cargo_Pants" chance="0.03" />
+    <item name="STAG_Clothing_Pouches" chance="0.03" />    
+	<item name="STAG_RepairKit" chance="0.01" />   
+	<item name="STAG_Clothing_Vest" chance="0.05" />
+	<item name="STAG_SmershVest" chance="0.1" />
+    <item name="STAG_Clothing_PlateCarrier" chance="0.01" /> 
+	<item name="AmmoBox_308Win_20Rnd" chance="0.05" />
+    <item name="AmmoBox_357_20Rnd" chance="0.05" />
+    <item name="AmmoBox_380_35Rnd" chance="0.05" />
+    <item name="AmmoBox_545x39_20Rnd" chance="0.05" />
+    <item name="AmmoBox_556x45_20Rnd" chance="0.05" />
+    <item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+    <item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+    <item name="AmmoBox_9x29_20Rnd" chance="0.05" />
+    <item name="jmc_SnowOwl_Ammo" chance="0.03" />
+	<item name="LeatherSewingKit" chance="0.05" />
+    <item name="TireRepairKit" chance="0.05" />
+    <item name="WeaponCleaningKit" chance="0.05" />
+    <item name="ElectronicRepairKit" chance="0.05" />
+	<item name="PUScopeOptic" chance="0.05" />
+    <item name="PSO1Optic" chance="0.05" />
+    <item name="ACOGOptic" chance="0.05" />
+    <item name="HuntingOptic" chance="0.05" />
+    <item name="ACOGOptic_6x" chance="0.05" />
+    <item name="StarlightOptic" chance="0.05" />
+    <item name="KazuarOptic" chance="0.05" />
+	<item name="CZ61" chance="0.10" />
+    <item name="Colt1911" chance="0.10" />
+    <item name="Magnum" chance="0.10" />
+    <item name="Deagle" chance="0.10" />
+    <item name="Sickle" chance="0.10" />
+    <item name="CrudeMachete" chance="0.10" />
+    <item name="OrientalMachete" chance="0.10" />
+    <item name="KukriKnife" chance="0.10" />
+    <item name="FangeKnife" chance="0.10" />
+  </cargo>   
 </randompresets>

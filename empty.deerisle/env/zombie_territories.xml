@@ -628,6 +628,14 @@
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="6" dmax="10" x="6247" z="15207" r="60"/>
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="6" dmax="10" x="6185" z="15305" r="60"/>
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="6" dmax="10" x="6073" z="15386" r="60"/>			
+		<zone name="InfectedTemple" smin="3" smax="5" dmin="3" dmax="5" x="205.2" z="694" r="100"/>
+        <zone name="InfectedTemple" smin="3" smax="5" dmin="3" dmax="5" x="383.2" z="527.4" r="120"/>
+        <zone name="InfectedTemple" smin="3" smax="5" dmin="3" dmax="5" x="605.2" z="647.6" r="120"/>
+        <zone name="InfectedTemple" smin="3" smax="5" dmin="3" dmax="5" x="568" z="899.4" r="120"/>
+        <zone name="InfectedTemple" smin="3" smax="5" dmin="3" dmax="5" x="259.4" z="968" r="120"/>
+        <zone name="InfectedTemple" smin="3" smax="5" dmin="3" dmax="5" x="354.8" z="1204" r="100"/>
+        <zone name="InfectedTemple" smin="6" smax="10" dmin="6" dmax="10" x="877.882" z="684.235" r="100"/>
+        <zone name="InfectedTemple" smin="6" smax="10" dmin="6" dmax="10" x="1023.06" z="569.412" r="75"/>
     </territory>
     <territory color="1694498687">
         <zone name="InfectedNBC" smin="20" smax="30" dmin="0" dmax="0" x="14028" z="2136" r="300"/>

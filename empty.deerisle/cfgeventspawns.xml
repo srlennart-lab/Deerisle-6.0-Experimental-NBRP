@@ -513,6 +513,7 @@
   <event name="InfectedPolice" />
   <event name="InfectedFirefighter" />
   <event name="InfectedPrisoner" />  
+  <event name="InfectedTemple" />  
   <event name="StaticPlantFernA">
     <pos x="356.2" z="1625.4" a="0" />
   </event>
