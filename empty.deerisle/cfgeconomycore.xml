@@ -37,4 +37,51 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 		<default name="randomloot_deloot_perevent" value="3" />
 	</defaults>
+	<!-- Modded CE content loaded per mod folder -->
+	<ce folder="ce/modded/CodeLock">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ce/modded/CookZ">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ce/modded/CJ187_LootChest">
+		<file name="types.xml" type="types" />
+		<file name="spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="ce/modded/DayZBicycle">
+		<file name="types.xml" type="types" />
+		<file name="events.xml" type="events" />
+		<file name="spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="ce/modded/dzr_notes">
+		<file name="types.xml" type="types" />
+		<file name="randompresets.xml" type="randompresets" />
+	</ce>
+	<ce folder="ce/modded/FlipTransport">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ce/modded/IRP_Defender110">
+		<file name="types.xml" type="types" />
+		<file name="events.xml" type="events" />
+		<file name="spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="ce/modded/MBM_Impala">
+		<file name="types.xml" type="types" />
+		<file name="events.xml" type="events" />
+	</ce>
+	<ce folder="ce/modded/MuchCarKey">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ce/modded/RaG_BaseItems">
+		<file name="types.xml" type="types" />
+		<file name="spawnabletypes.xml" type="spawnabletypes" />
+		<file name="randompresets.xml" type="randompresets" />
+	</ce>
+	<ce folder="ce/modded/SNAFU_Weapons">
+		<file name="types.xml" type="types" />
+		<file name="spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="ce/modded/Windstrides">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>

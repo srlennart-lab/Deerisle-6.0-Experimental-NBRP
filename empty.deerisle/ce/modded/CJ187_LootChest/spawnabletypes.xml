@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--			LOOTCHESTS			-->
+<spawnabletypes>
+	<type name="CJ_Key1">
+	</type>
+	<type name="CJ_Key2">
+	</type>
+	<type name="CJ_Key3">
+	</type>
+	<type name="CJ_Key4">
+	</type>
+	<type name="CJ_Key5">
+	</type>
+	<type name="CJ_Key6">
+	</type>
+	<type name="CJ_Key7">
+	</type>
+	<type name="CJ_Key8">
+	</type>
+	<type name="CJ_Key9">
+	</type>
+	<type name="CJ_Key10">
+	</type>
+	<type name="CJ_Key11">
+	</type>
+	<type name="CJ_Key12">
+	</type>
+	<type name="CJ_Key101">
+	</type>
+	<type name="CJ_Key102">
+	</type>
+	<type name="CJ_Key103">
+	</type>
+	<type name="CJ_Key200">
+	</type>
+	<type name="CJ_Key201">
+	</type>
+	<type name="CJ_Key202">
+	</type>
+	<type name="CJ_Key203">
+	</type>
+	<type name="CJ_Key204">
+	</type>
+</spawnabletypes>

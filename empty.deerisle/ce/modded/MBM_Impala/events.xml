@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="VehicleImpala">
+		<nominal>15</nominal>
+		<min>10</min>
+		<max>15</max>
+		<lifetime>300</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Black"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_White"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Blue"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Red"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Yellow"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Green"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Gold"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Maroon"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Plum"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="MBM_ChevyImpala_Turquoise"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="MBM_ChevyImpala_Black_Rusty"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="MBM_ChevyImpala_White_Rusty"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="MBM_ChevyImpala_Blue_Rusty"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="MBM_ChevyImpala_Red_Rusty"/>
+		</children>
+	</event>
+</events>

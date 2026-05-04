@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<randompresets>
+    <cargo chance="0.35" name="toolsMedic">
+        <item name="SalineBag" chance="0.05" />
+        <item name="BandageDressing" chance="0.15" />
+        <item name="BloodBagEmpty" chance="0.1" />
+        <item name="BloodTestKit" chance="0.05" />
+        <item name="StartKitIV" chance="0.05" />
+        <item name="PurificationTablets" chance="0.1" />
+        <item name="CharcoalTablets" chance="0.1" />
+        <item name="PainkillerTablets" chance="0.1" />
+        <item name="VitaminBottle" chance="0.05" />
+        <item name="TetracyclineAntibiotics" chance="0.1" />
+        <item name="Thermometer" chance="0.05" />
+        <item name="Pen_Blue" chance="0.95" /> 
+        <item name="Paper" chance="0.95" /> 
+    </cargo>
+    <cargo chance="1" name="writingTools"> 
+        <item name="Pen_Black" chance="0.10" />
+        <item name="Pen_Blue" chance="0.95" />
+        <item name="Pen_Green" chance="0.10" />
+        <item name="Pen_Red" chance="0.10" />
+        <item name="Paper" chance="0.95" />
+        <item name="Paper" chance="0.80" />
+        <item name="DZR_File_Folder" chance="0.25" />
+        <item name="DZR_File_Folder_Red" chance="0.35" />
+        <item name="DZR_File_Folder_Green" chance="0.35" />
+        <item name="DZR_File_Folder_Blue" chance="0.35" />
+        <item name="DZR_File_Folder_Grey" chance="0.45" />
+    </cargo>
+</randompresets>
+<!-- How to use this file https://gitlab.com/dayz-russia/dzr-mods-public/-/wikis/Adding-mod-types-to-your-server -->
