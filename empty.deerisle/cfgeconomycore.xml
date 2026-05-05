@@ -37,6 +37,22 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 		<default name="randomloot_deloot_perevent" value="3" />
 	</defaults>
+	<!-- Vanilla DeerIsle types — aufgeteilt aus db/types.xml -->
+	<ce folder="ce/custom_types">
+		<file name="types_clothing.xml" type="types" />
+		<file name="types_ammo.xml" type="types" />
+		<file name="types_weapon_attachments.xml" type="types" />
+		<file name="types_firearms.xml" type="types" />
+		<file name="types_tools.xml" type="types" />
+		<file name="types_building_supplies.xml" type="types" />
+		<file name="types_food.xml" type="types" />
+		<file name="types_containers.xml" type="types" />
+		<file name="types_explosives.xml" type="types" />
+		<file name="types_animals.xml" type="types" />
+		<file name="types_infected.xml" type="types" />
+		<file name="types_vehicles.xml" type="types" />
+		<file name="types_misc.xml" type="types" />
+	</ce>
 	<!-- Modded CE content loaded per mod folder -->
 	<ce folder="ce/modded/CodeLock">
 		<file name="types.xml" type="types" />
