@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+	<type name="MBM_ChevyImpala_Black">
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_driver_Black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_codriver_Black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_cargo1_Black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_cargo2_Black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_hood_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_trunk_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="MBM_ChevyImpala_White">
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_Wheel_Steel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_driver_White" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_codriver_White" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_cargo1_White" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_cargo2_White" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_hood_White" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MBM_ChevyImpala_doors_trunk_White" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.10" />
+		</attachments>
+	</type>
+</spawnabletypes>

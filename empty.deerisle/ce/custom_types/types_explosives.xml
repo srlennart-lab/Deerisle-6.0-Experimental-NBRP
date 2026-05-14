@@ -20,10 +20,10 @@
     <usage name="Military" />
   </type>
   <type name="FlashGrenade">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -39,10 +39,10 @@
     <value name="Tier1" />
   </type>
   <type name="Grenade_ChemGas">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>900</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -64,10 +64,10 @@
     <category name="explosives" />
   </type>
   <type name="M18SmokeGrenade_Green">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -83,10 +83,10 @@
     <value name="Tier9" />
   </type>
   <type name="M18SmokeGrenade_Purple">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -100,10 +100,10 @@
     <usage name="Police" />
   </type>
   <type name="M18SmokeGrenade_Red">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -117,10 +117,10 @@
     <usage name="Police" />
   </type>
   <type name="M18SmokeGrenade_White">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -134,10 +134,10 @@
     <usage name="Police" />
   </type>
   <type name="M18SmokeGrenade_Yellow">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -151,10 +151,10 @@
     <usage name="Police" />
   </type>
   <type name="M67Grenade">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>7200</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -170,7 +170,7 @@
     <nominal>2</nominal>
     <lifetime>432000</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -180,10 +180,10 @@
     <usage name="Military" />
   </type>
   <type name="RDG2SmokeGrenade_Black">
-    <nominal>6</nominal>
+    <nominal>5</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -198,10 +198,10 @@
     <usage name="Police" />
   </type>
   <type name="RDG2SmokeGrenade_White">
-    <nominal>6</nominal>
+    <nominal>5</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -216,10 +216,10 @@
     <usage name="Police" />
   </type>
   <type name="RGD5Grenade">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>7200</lifetime>
     <restock>6000</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

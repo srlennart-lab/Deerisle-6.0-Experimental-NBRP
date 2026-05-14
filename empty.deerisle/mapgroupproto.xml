@@ -14494,7 +14494,6 @@
 				</container>
 		</group>
 		<group name="Land_Bunker1_Double" lootmax="3">
-				<usage name="NBCSource" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
@@ -26463,6 +26462,7 @@
 		<group name="Land_STAG_Submarine" lootmax="10">
 				<usage name="Military" />
 				<usage name="Medic" />
+				<usage name="NBCSource" />
 				<container name="lootweapons" lootmax="5">
 						<category name="weapons" />
 						<category name="explosives" />												
@@ -26504,7 +26504,8 @@
 						<point pos="2.616708 7.520731 16.016741" range="0.581250" height="1.453125" flags="16" />						
 				</container>
 				<container name="loottools" lootmax="3">
-						<category name="tools" />						
+						<category name="tools" />
+						<category name="clothes" />
 						<point pos="1.682307 9.761174 -1.388592" range="0.581250" height="1.453125" flags="16" />
 						<point pos="0.108122 7.520753 8.977121" range="0.684375" height="1.710938" flags="16" />						
 						<point pos="2.595319 7.520593 18.551132" range="0.546875" height="1.367188" flags="16" />
@@ -26516,6 +26517,7 @@
 		<group name="Land_STAG_Submarine_Dark" lootmax="5">
 				<usage name="Military" />
 				<usage name="Medic" />
+				<usage name="NBCSource" />
 				<container name="lootweapons" lootmax="5">
 						<category name="weapons" />
 						<category name="explosives" />												
@@ -26557,7 +26559,8 @@
 						<point pos="2.616708 7.520731 16.016741" range="0.581250" height="1.453125" flags="16" />						
 				</container>
 				<container name="loottools" lootmax="3">
-						<category name="tools" />						
+						<category name="tools" />
+						<category name="clothes" />
 						<point pos="1.682307 9.761174 -1.388592" range="0.581250" height="1.453125" flags="16" />
 						<point pos="0.108122 7.520753 8.977121" range="0.684375" height="1.710938" flags="16" />						
 						<point pos="2.595319 7.520593 18.551132" range="0.546875" height="1.367188" flags="16" />

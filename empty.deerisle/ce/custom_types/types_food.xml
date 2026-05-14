@@ -23,7 +23,7 @@
     <category name="food" />
   </type>
   <type name="BakedBeansCan">
-    <nominal>4</nominal>
+    <nominal>3</nominal>
     <lifetime>7200</lifetime>
     <restock>600</restock>
     <min>2</min>
@@ -83,10 +83,10 @@
     <category name="food" />
   </type>
   <type name="BoxCerealCrunchin">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>10</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -99,10 +99,10 @@
     <usage name="Village" />
   </type>
   <type name="BrisketSpread">
-    <nominal>12</nominal>
+    <nominal>9</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -127,10 +127,10 @@
     <category name="food" />
   </type>
   <type name="CatFoodCan">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -211,10 +211,10 @@
     <category name="food" />
   </type>
   <type name="Chips">
-    <nominal>41</nominal>
+    <nominal>31</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>36</min>
+    <min>27</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -233,10 +233,10 @@
     <usage name="Lunapark" />
   </type>
   <type name="Crackers">
-    <nominal>41</nominal>
+    <nominal>31</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>36</min>
+    <min>27</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -256,10 +256,10 @@
     <usage name="Lunapark" />
   </type>
   <type name="Canteen">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>6</min>
     <quantmin>10</quantmin>
     <quantmax>90</quantmax>
     <cost>100</cost>
@@ -317,10 +317,10 @@
     <category name="food" />
   </type>
   <type name="CrabCan">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -419,10 +419,10 @@
     <category name="food" />
   </type>
   <type name="DogFoodCan">
-    <nominal>31</nominal>
+    <nominal>23</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -460,10 +460,10 @@
     <category name="food" />
   </type>
   <type name="GreenBellPepper">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -485,10 +485,10 @@
     <category name="food" />
   </type>
   <type name="Honey">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>6</min>
+    <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -528,10 +528,10 @@
     <category name="food" />
   </type>
   <type name="Lunchmeat">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>16</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -591,10 +591,10 @@
     <category name="food" />
   </type>
   <type name="Marmalade">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>10800</lifetime>
     <restock>600</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -606,10 +606,10 @@
     <usage name="Village" />
   </type>
   <type name="Pajka">
-    <nominal>12</nominal>
+    <nominal>9</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -635,10 +635,10 @@
     <category name="food" />
   </type>
   <type name="Pate">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>16</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -664,10 +664,10 @@
     <category name="food" />
   </type>
   <type name="PeachesCan">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -692,10 +692,10 @@
     <category name="food" />
   </type>
   <type name="Pear">
-    <nominal>41</nominal>
+    <nominal>31</nominal>
     <lifetime>900</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -703,10 +703,10 @@
     <category name="food" />
   </type>
   <type name="PepperSeedsPack">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -805,10 +805,10 @@
     <category name="food" />
   </type>
   <type name="PorkCan">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -835,10 +835,10 @@
     <category name="food" />
   </type>
   <type name="Potato">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>16</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -853,10 +853,10 @@
     <usage name="Village" />
   </type>
   <type name="PotatoSeed">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -870,10 +870,10 @@
     <usage name="Village" />
   </type>
   <type name="PowderedMilk">
-    <nominal>10</nominal>
+    <nominal>8</nominal>
     <lifetime>10800</lifetime>
     <restock>600</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>10</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -895,10 +895,10 @@
     <category name="food" />
   </type>
   <type name="PumpkinSeedsPack">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -920,10 +920,10 @@
     <category name="food" />
   </type>
   <type name="Rice">
-    <nominal>10</nominal>
+    <nominal>8</nominal>
     <lifetime>10800</lifetime>
     <restock>600</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>10</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -942,10 +942,10 @@
     <usage name="Village" />
   </type>
   <type name="SaltySticks">
-    <nominal>41</nominal>
+    <nominal>31</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>36</min>
+    <min>27</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -981,10 +981,10 @@
     <category name="food" />
   </type>
   <type name="SardinesCan">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>600</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1033,10 +1033,10 @@
     <category name="food" />
   </type>
   <type name="SodaCan_Cola">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>18</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1047,10 +1047,10 @@
     <usage name="Village" />
   </type>
   <type name="SodaCan_Fronta">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>18</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1061,10 +1061,10 @@
     <usage name="Village" />
   </type>
   <type name="SodaCan_Kvass">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>18</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1075,10 +1075,10 @@
     <usage name="Village" />
   </type>
   <type name="SodaCan_Pipsi">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>18</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1089,10 +1089,10 @@
     <usage name="Village" />
   </type>
   <type name="SodaCan_Spite">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>18</min>
+    <min>14</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1103,10 +1103,10 @@
     <usage name="Village" />
   </type>
   <type name="SpaghettiCan">
-    <nominal>12</nominal>
+    <nominal>9</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>6</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1128,10 +1128,10 @@
     <category name="food" />
   </type>
   <type name="TacticalBaconCan">
-    <nominal>12</nominal>
+    <nominal>9</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1159,10 +1159,10 @@
     <category name="food" />
   </type>
   <type name="Tomato">
-    <nominal>46</nominal>
+    <nominal>35</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>36</min>
+    <min>27</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1185,10 +1185,10 @@
     <category name="food" />
   </type>
   <type name="TomatoSeedsPack">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1199,10 +1199,10 @@
     <usage name="Industrial" />
   </type>
   <type name="TunaCan">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>7200</lifetime>
     <restock>600</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1224,10 +1224,10 @@
     <category name="food" />
   </type>
   <type name="UnknownFoodCan">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1257,10 +1257,10 @@
     <category name="food" />
   </type>
   <type name="WaterBottle">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
-    <min>12</min>
+    <min>9</min>
     <quantmin>20</quantmin>
     <quantmax>70</quantmax>
     <cost>100</cost>
@@ -1287,10 +1287,10 @@
     <category name="food" />
   </type>
   <type name="Zagorky">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>16</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1307,10 +1307,10 @@
     <usage name="Lunapark" />
   </type>
   <type name="ZagorkyChocolate">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>16</min>
+    <min>12</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1324,10 +1324,10 @@
     <usage name="Town" />
   </type>
   <type name="ZagorkyPeanuts">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1343,10 +1343,10 @@
     <usage name="Lunapark" />
   </type>
   <type name="Zucchini">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1369,10 +1369,10 @@
     <category name="food" />
   </type>
   <type name="ZucchiniSeedsPack">
-    <nominal>16</nominal>
+    <nominal>12</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1399,10 +1399,10 @@
     <usage name="Town" />
   </type>
   <type name="Fwinkies">
-    <nominal>8</nominal>
+    <nominal>6</nominal>
     <lifetime>5600</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

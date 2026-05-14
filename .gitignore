@@ -1,3 +1,7 @@
 empty.deerisle/storage_1/
 empty.deerisle/_merge_mod_xmls.ps1
 empty.deerisle/shift_fullauto.py
+
+# Lokale Backup-Artefakte (nicht ins Repo)
+**/*.bak_*
+empty.deerisle/ce/custom_types_backup_*/

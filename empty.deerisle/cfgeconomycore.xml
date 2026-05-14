@@ -84,6 +84,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ce/modded/MBM_Impala">
 		<file name="types.xml" type="types" />
 		<file name="events.xml" type="events" />
+		<file name="spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
 	<ce folder="ce/modded/MuchCarKey">
 		<file name="types.xml" type="types" />

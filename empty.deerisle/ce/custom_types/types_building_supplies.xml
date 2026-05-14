@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <types>
   <type name="BarbedWire">
-    <nominal>36</nominal>
+    <nominal>25</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>31</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -14,10 +14,10 @@
     <usage name="Industrial" />
   </type>
   <type name="Firewood">
-    <nominal>4</nominal>
+    <nominal>3</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -36,10 +36,10 @@
     <category name="tools" />
   </type>
   <type name="MetalWire">
-    <nominal>31</nominal>
+    <nominal>23</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -65,10 +65,10 @@
     <category name="tools" />
   </type>
   <type name="NailBox">
-    <nominal>62</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>41</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -92,10 +92,10 @@
     <category name="tools" />
   </type>
   <type name="Netting">
-    <nominal>25</nominal>
+    <nominal>19</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

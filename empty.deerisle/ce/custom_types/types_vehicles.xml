@@ -2042,7 +2042,7 @@
     <usage name="Military" />
   </type>
   <type name="Offroad_02_Hood">
-    <nominal>4</nominal>
+    <nominal>3</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -2053,7 +2053,7 @@
     <category name="lootdispatch" />
   </type>
   <type name="Offroad_02_Trunk">
-    <nominal>4</nominal>
+    <nominal>3</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -2077,10 +2077,10 @@
     <usage name="Military" />
   </type>
   <type name="Offroad_02_Wheel">
-    <nominal>10</nominal>
+    <nominal>8</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>6</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
